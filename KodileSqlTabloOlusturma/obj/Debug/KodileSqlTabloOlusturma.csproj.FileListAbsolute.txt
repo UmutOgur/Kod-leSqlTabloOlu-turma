@@ -1,0 +1,9 @@
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\KodileSqlTabloOlusturma\KodileSqlTabloOlusturma\bin\Debug\KodileSqlTabloOlusturma.exe.config
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\KodileSqlTabloOlusturma\KodileSqlTabloOlusturma\bin\Debug\KodileSqlTabloOlusturma.exe
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\KodileSqlTabloOlusturma\KodileSqlTabloOlusturma\bin\Debug\KodileSqlTabloOlusturma.pdb
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\KodileSqlTabloOlusturma\KodileSqlTabloOlusturma\obj\Debug\KodileSqlTabloOlusturma.csprojResolveAssemblyReference.cache
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\KodileSqlTabloOlusturma\KodileSqlTabloOlusturma\obj\Debug\KodileSqlTabloOlusturma.Form1.resources
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\KodileSqlTabloOlusturma\KodileSqlTabloOlusturma\obj\Debug\KodileSqlTabloOlusturma.Properties.Resources.resources
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\KodileSqlTabloOlusturma\KodileSqlTabloOlusturma\obj\Debug\KodileSqlTabloOlusturma.csproj.GenerateResource.Cache
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\KodileSqlTabloOlusturma\KodileSqlTabloOlusturma\obj\Debug\KodileSqlTabloOlusturma.exe
+C:\Users\baxan\Desktop\C# Örnekleri\FORM ÖRNEKLERİ\KodileSqlTabloOlusturma\KodileSqlTabloOlusturma\obj\Debug\KodileSqlTabloOlusturma.pdb
